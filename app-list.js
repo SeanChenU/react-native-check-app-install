@@ -30,4 +30,5 @@ export const APP_LIST = {
     "linkedin": {pkgName: "com.linkedin.android", urlScheme: "linkedin", urlParams: ""},
     "google": { pkgName: "com.google.android.googlequicksearchbox", urlScheme: "google", urlParams: "" },
     "qq": { pkgName: "com.tencent.mobileqq", urlScheme: "mqqapi", urlParams: "" },
+    "line": { pkgName: "jp.naver.line.android", urlScheme: "line", urlParams: "" },
 };
